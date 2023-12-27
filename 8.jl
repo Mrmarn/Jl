@@ -1,3 +1,4 @@
+using HorisonSideRobots
 function find_the_marker!(r)
     num_steps = 1
     side = Sud
